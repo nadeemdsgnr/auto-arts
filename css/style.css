@@ -1114,6 +1114,16 @@ color: #fff;
   }
 }
 
+@media only screen and (max-width: 640px) {
+  .navigation-menu-img{
+    display: none;
+  }
+  .navigation-menu-txt{
+    width: 100%;
+    left: 0;
+  }
+}
+
 .intro-subtitle.intro-subtitle-dark {
 color: #111;
 }
@@ -4355,7 +4365,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a6000000', en
   position: fixed;
   top: 42px;
   right: 120px;
-  z-index: 99990;
+  z-index: 999;
   box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
 }
 

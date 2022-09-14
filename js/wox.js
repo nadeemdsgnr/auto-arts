@@ -141,7 +141,7 @@ $(function() {
         margin: 0,
         autoplay: true,
         autoplaySpeed: 1000,
-        autoplayTimeout: 5000,
+        autoplayTimeout: 3000,
         smartSpeed: 450,
         nav: true,
         navText: ["<i class='owl-custom ion-chevron-left'></i>", "<i class='owl-custom ion-chevron-right'></i>"],

@@ -111,7 +111,7 @@ background-image: url(../img/background/home-light-bg.jpg);
 
 /* 1.2. about IMG BACKGROUND */
 .about-bg {
-background-image: url(../img/menu/menu-2.jpg);
+background-image: url(../img/about/about-bg-new.jpg);
 }
 
 
@@ -150,24 +150,27 @@ background-image: url(../img/services/quality_policy.jpg);
 
 
 /* 1.4. works IMG carousel IMG BACKGROUND */
+.works-page-img-carousel-item-0 {   
+  background-image: url(../img/services/star-liner-new.jpg);
+}
 .works-page-img-carousel-item-1 {   
-background-image: url(../img/services/wrapping-foiling-2.jpg);
+  background-image: url(../img/services/wrapping-foiling-new.jpg);
 }
 
 .works-page-img-carousel-item-2 {   
-background-image: url(../img/services/ppf-2.jpg);
+background-image: url(../img/services/paint-protection-film.jpg);
 }
 
 .works-page-img-carousel-item-3 { 
-background-image: url(../img/services/paint.jpg);
+background-image: url(../img/services/paint-new.jpg);
 }
 
 .works-page-img-carousel-item-4 {   
-background-image: url(../img/services/peelable-paint.jpg);
+background-image: url(../img/services/peelable.webp);
 }
 
 .works-page-img-carousel-item-5 {   
-background-image: url(../img/services/bespoken_design.webp);
+background-image: url(../img/services/bespoken-design-new.jpg);
 }
 
 .works-page-img-carousel-item-6 {   
@@ -175,11 +178,19 @@ background-image: url(../img/services/tinting.jpg);
 }
 
 .works-page-img-carousel-item-7 { 
-background-image: url(../img/services/detailing.jpg);
+background-image: url(../img/services/interior-detailing.jpg);
+}
+
+.works-page-img-carousel-item-07{
+  background-image: url(../img/services/detailing.jpg);
 }
 
 .works-page-img-carousel-item-8 {   
 background-image: url(../img/services/ceramic-protection.jpg);
+}
+
+.works-page-img-carousel-item-08{
+  background-image: url(../img/services/color-change-new.jpg);
 }
 
 .works-page-img-carousel-item-9 {   
@@ -187,7 +198,7 @@ background-image: url(../img/services/wheel.jpg);
 }
 
 .works-page-img-carousel-item-10 {    
-background-image: url(../img/services/interior.jpg);
+background-image: url(../img/services/car-interior.jpg);
 }
 
 .works-page-img-carousel-item-11 {    
@@ -207,13 +218,13 @@ background-image: url(../img/services/bodykit.jpg);
 }
 
 .works-page-img-carousel-item-15 {    
-background-image: url(../img/services/storage.jpg);
+background-image: url(../img/services/car-washing.jpg);
 }
 
 
 /* 1.5. news IMG carousel IMG BACKGROUND */
 .news-page-img-carousel-item-1 {    
-background-image: url(../img/services/vip-1.webp);
+background-image: url(../img/services/vip-8.jpeg);
 }
 
 .news-page-img-carousel-item-2 {    
@@ -221,7 +232,7 @@ background-image: url(../img/services/vip-2.jpg);
 }
 
 .news-page-img-carousel-item-3 {  
-background-image: url(../img/services/vip-6.jpg);
+background-image: url(../img/services/vip.jpg);
 }
 
 

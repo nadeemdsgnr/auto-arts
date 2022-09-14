@@ -135,11 +135,11 @@ $(function() {
     // 4. owl carousel
     // 4.1. owl works carousel
     $("#works-page-img-carousel").owlCarousel({
-        loop: false,
+        loop: true,
         center: false,
         items: 3,
         margin: 0,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1000,
         autoplayTimeout: 5000,
         smartSpeed: 450,
